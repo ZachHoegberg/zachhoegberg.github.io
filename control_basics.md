@@ -1,4 +1,4 @@
-#Control Basics
+# Control Basics
 ## Feedback control: PID
 For most engineers, their first and possible only exposure to control theory is the PID controller and its subsets:
 ![PID Block Diagram](/img/PID.webp)
